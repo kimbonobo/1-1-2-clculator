@@ -1,4 +1,4 @@
-# 1-1-2-clculator
+# 1-1-2-calculator
 
 One Paragraph of project description goes here
 
