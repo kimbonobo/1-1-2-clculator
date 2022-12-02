@@ -12,7 +12,7 @@ class Main(QDialog):
         ### 각 위젯을 배치할 레이아웃을 미리 만들어 둠
         layout_operation = QHBoxLayout()
         layout_clear_equal =ㄹㄴㅇㅁㄹ QHBoxLayout()
-        layout_number = QGridLayout()
+        layout_number = QGridLayout()ㅣ"
         layout_equation_solution = QFormLayout()
 
         ### 수식 입력과 답 출력을 위한 LineEdit 위젯 생성
